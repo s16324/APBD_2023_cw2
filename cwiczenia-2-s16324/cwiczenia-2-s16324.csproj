@@ -6,4 +6,8 @@
     <RootNamespace>cwiczenia_2_s16324</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
 </Project>
