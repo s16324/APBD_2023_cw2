@@ -2,7 +2,7 @@
   "profiles": {
     "cwiczenia-2-s16324": {
       "commandName": "Project",
-      "commandLineArgs": "C:\\Users\\lewan\\cwiczenia-2-s16324-1\\cwiczenia-2-s16324\\Data\\dane.csv C:\\Users\\lewan\\cwiczenia-2-s16324-1\\cwiczenia-2-s16324\\Data\\ json"
+      "commandLineArgs": "C:\\Users\\lewan\\APBD\\2\\cwiczenia-2-s16324-1\\cwiczenia-2-s16324\\Data\\dane.csv C:\\Users\\lewan\\APBD\\2\\cwiczenia-2-s16324-1\\cwiczenia-2-s16324\\Data\\ json"
     }
   }
 }

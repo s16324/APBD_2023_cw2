@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rZpXryN8bufIdOS2k3AtdvuMNM2F3K9k8hwCI596K9Rg0mBbv8qwu75LK5fFTRDYw+TPBzzec+lTPfKR2ZWGHg==",
+  "dgSpecHash": "9OZE1X8DievTrvSljk/JbUPzD9an7+FDdoRtzEpHl4XwFh89CUshIms+qkyXBfrD2WfA77bpuawLYDv8QtdQCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lewan\\cwiczenia-2-s16324-1\\cwiczenia-2-s16324\\cwiczenia-2-s16324.csproj",
+  "projectFilePath": "C:\\Users\\lewan\\APBD\\2\\cwiczenia-2-s16324-1\\cwiczenia-2-s16324\\cwiczenia-2-s16324.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lewan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
